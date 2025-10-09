@@ -18,7 +18,12 @@ def main():
     x="Task1b"
     #===============================
     # Write your code here
-
+shout = "hello!"
+loud = loud.upper()
+print(loud)
+print(shout,shout,shout)
+    
+    
 
 
 

@@ -13,7 +13,6 @@ class TestTask01a(unittest.TestCase):
         main()
         expected_output = "hello hello hello"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
-
     @patch('builtins.input', return_value='test')
     @patch('sys.stdout', new_callable=StringIO)
     def test_different_input(self, mock_stdout, mock_input):
