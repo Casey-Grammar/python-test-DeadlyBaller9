@@ -28,7 +28,8 @@ def main():
         main()
         expected_output = "test test test\n\ntest\ntest\ntest"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
-   ''' Added by teacher
+    Added by teacher
+   '''
    
     # End of your code here
     #===============================
