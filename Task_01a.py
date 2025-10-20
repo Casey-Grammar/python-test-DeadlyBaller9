@@ -8,12 +8,12 @@ When you shout across a valley you can often hear an echo back. Write a program 
 Shout: hello
 hello hello hello
 =========================  
-'''
+''' Added by teacher
 def main():
     x="Task1a"
     #===============================
     # Write your code here
-    (builtins.input', return_value='hello')
+    '''(builtins.input', return_value='hello')
     @patch('sys.stdout', new_callable=StringIO)
     def test_example_output(self, mock_stdout, mock_input):
         """Test with the example input 'hello' from the problem statement"""
@@ -28,6 +28,8 @@ def main():
         main()
         expected_output = "test test test\n\ntest\ntest\ntest"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
+   ''' Added by teacher
+   
     # End of your code here
     #===============================
 
