@@ -27,12 +27,13 @@ tests above produce the given outputs.
 # All code to debug is below here
 #==============================
 def hello(name):
-    # greeting = (f'Hello, {name}'!')
+    # Updated by teacher to remove errors == greeting = (f'Hello, {name}'!')
     return greeting
 
 def main():
   name = int(input('What is your name? '))
-    '''Updated by teacher to remove errors
+    '''
+    Updated by teacher to remove errors
   if len(name < 3:
     print ('Your name is too short')
   else:
