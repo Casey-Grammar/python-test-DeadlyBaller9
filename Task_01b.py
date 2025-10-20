@@ -18,7 +18,8 @@ def main():
     x="Task1b"
     #===============================
     # Write your code here
-'''Updated by teacher to remove errors
+'''
+Updated by teacher to remove errors
 shout = "hello!"
 loud = loud.upper()
 print(loud)
