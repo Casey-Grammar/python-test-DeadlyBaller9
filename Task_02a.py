@@ -29,8 +29,13 @@ def main():
   x="Task2a"
   #===============================
   # Write your code here
+
+  '''Updated by teacher to remove errors
   print = Marco
   if print=Polo!
+  '''Updated by teacher to remove errors
+
+  
   #====
   # End of your code here
   #===============================
