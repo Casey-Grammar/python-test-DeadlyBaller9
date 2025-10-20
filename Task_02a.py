@@ -30,10 +30,13 @@ def main():
   #===============================
   # Write your code here
 
-  '''Updated by teacher to remove errors
+  '''
+  Updated by teacher to remove errors
   print = Marco
   if print=Polo!
-  '''Updated by teacher to remove errors
+
+  Updated by teacher to remove errors
+  '''
 
   
   #====
