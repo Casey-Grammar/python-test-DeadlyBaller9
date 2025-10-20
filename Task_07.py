@@ -38,7 +38,9 @@ def main():
   else:
     reply = hello(name)
     print(reply)
-    '''Updated by teacher to remove errors
+    
+    Updated by teacher to remove errors
+    '''
 
 #===============================
 #All code to debug is above here
