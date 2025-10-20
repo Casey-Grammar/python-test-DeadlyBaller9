@@ -32,11 +32,13 @@ def hello(name):
 
 def main():
   name = int(input('What is your name? '))
+    '''Updated by teacher to remove errors
   if len(name < 3:
     print ('Your name is too short')
   else:
     reply = hello(name)
     print(reply)
+    '''Updated by teacher to remove errors
 
 #===============================
 #All code to debug is above here
