@@ -32,7 +32,7 @@ def hello(name):
 
 def main():
   name = input('What is your name? ')
-    '''
+  '''
     Updated by teacher to remove errors
   if len(name < 3:
     print ('Your name is too short')
@@ -41,7 +41,7 @@ def main():
     print(reply)
     
     Updated by teacher to remove errors
-    '''
+  '''
 
 #===============================
 #All code to debug is above here
